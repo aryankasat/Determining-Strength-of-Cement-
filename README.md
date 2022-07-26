@@ -1,4 +1,8 @@
-# Determining-Strength-of-Cement-
+# Determining-Strength-of-Cement
+
+Here we are building a regression model using  Keras to Determine the strength of the cement using various other properties of cement.
+
+
 A. Build a baseline model. Use the Keras library to build a neural network with the following:
 One hidden layer of 10 nodes, and a ReLU activation function
 Use the adam optimizer and the mean squared error as the loss function.
